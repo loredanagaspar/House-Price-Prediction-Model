@@ -1,0 +1,1001 @@
+Size,Bedrooms,Bathrooms,Location,Price
+2212,3,2,Rural Area,361200
+2004,1,2,Suburbs,300400
+2431,4,3,City Centre,418100
+2657,3,1,Suburbs,390700
+2514,2,3,Rural Area,386400
+632,5,1,City Centre,228200
+2618,1,1,Rural Area,346800
+2777,1,1,Rural Area,362700
+570,5,3,Rural Area,252000
+2643,3,1,Suburbs,389300
+2619,2,3,City Centre,396900
+867,3,2,Rural Area,226700
+1976,5,1,City Centre,362600
+1103,4,1,Rural Area,255300
+2702,5,1,City Centre,435200
+718,5,1,Suburbs,236800
+2085,3,1,Rural Area,333500
+2889,1,2,Suburbs,388900
+2868,5,3,City Centre,481800
+1522,3,1,Rural Area,277200
+1007,1,3,Suburbs,215700
+1018,3,3,Rural Area,256800
+579,3,3,City Centre,212900
+914,3,2,Rural Area,231400
+1943,2,2,City Centre,314300
+2023,1,1,Suburbs,287300
+2574,2,3,City Centre,392400
+871,3,1,Rural Area,212100
+1492,5,2,Rural Area,329200
+1335,1,1,Rural Area,218500
+630,5,1,Suburbs,228000
+2302,2,1,City Centre,335200
+2532,1,3,City Centre,368200
+2146,5,1,Rural Area,379600
+2471,5,1,Suburbs,412100
+500,1,3,Rural Area,165000
+1745,4,1,City Centre,319500
+2130,1,2,City Centre,313000
+1524,3,1,Rural Area,277400
+1663,4,2,City Centre,326300
+2450,4,3,City Centre,420000
+2190,5,1,Rural Area,384000
+551,1,1,Suburbs,140100
+2704,2,3,Rural Area,405400
+1676,5,1,Rural Area,332600
+2639,1,1,Rural Area,348900
+1698,3,2,Rural Area,309800
+2610,5,3,Rural Area,456000
+2433,3,2,Suburbs,383300
+1211,4,1,Suburbs,266100
+1048,4,3,Rural Area,279800
+1240,1,3,Rural Area,239000
+1652,3,2,Rural Area,305200
+1311,3,3,City Centre,286100
+1204,5,3,City Centre,315400
+2529,5,2,Rural Area,432900
+1927,1,1,City Centre,277700
+711,4,3,Suburbs,246100
+2933,2,3,City Centre,428300
+1201,2,2,City Centre,240100
+1277,3,2,Suburbs,267700
+808,5,3,Suburbs,275800
+927,5,1,City Centre,257700
+601,5,1,Rural Area,225100
+2891,2,1,Suburbs,394100
+1812,1,3,City Centre,296200
+697,3,3,City Centre,224700
+592,4,3,City Centre,234200
+2298,4,2,City Centre,389800
+1333,4,1,Rural Area,278300
+664,5,1,Rural Area,231400
+1864,1,2,Suburbs,286400
+1833,1,1,Rural Area,268300
+1528,5,2,City Centre,332800
+842,1,2,City Centre,184200
+1799,5,3,Rural Area,374900
+1433,2,1,Suburbs,248300
+2396,4,2,City Centre,399600
+2994,4,1,Rural Area,444400
+2336,2,2,Suburbs,353600
+791,4,3,Suburbs,254100
+986,3,1,Rural Area,223600
+1551,2,1,Rural Area,260100
+1318,1,1,Suburbs,216800
+1424,2,2,Rural Area,262400
+1774,3,1,City Centre,302400
+2987,3,3,Rural Area,453700
+2929,1,2,Suburbs,392900
+1836,4,1,Suburbs,328600
+2616,4,3,Rural Area,436600
+888,4,3,City Centre,263800
+2334,2,2,Suburbs,353400
+2565,3,1,Rural Area,381500
+1230,2,3,Rural Area,258000
+2703,5,1,Rural Area,435300
+911,5,3,Suburbs,286100
+2351,1,1,City Centre,320100
+925,4,3,Rural Area,267500
+2485,3,3,City Centre,403500
+1468,5,1,Suburbs,311800
+631,3,2,Rural Area,203100
+1950,4,2,Rural Area,355000
+951,4,2,Suburbs,255100
+1594,2,3,Rural Area,294400
+556,1,3,City Centre,170600
+2022,1,2,Suburbs,302200
+2111,3,3,Suburbs,366100
+914,2,1,Rural Area,196400
+1381,5,3,City Centre,333100
+846,4,3,Rural Area,259600
+1418,4,1,City Centre,286800
+2393,2,1,City Centre,344300
+2298,1,1,Rural Area,314800
+562,5,1,City Centre,221200
+530,5,1,Rural Area,218000
+1757,5,3,City Centre,370700
+1304,2,2,City Centre,250400
+2605,1,2,City Centre,360500
+1491,2,3,City Centre,284100
+1917,1,2,City Centre,291700
+2479,3,1,City Centre,372900
+2612,3,3,City Centre,416200
+1518,1,2,City Centre,251800
+2021,1,3,Rural Area,317100
+1764,3,1,Rural Area,301400
+2702,5,3,Rural Area,465200
+2680,1,2,City Centre,368000
+1183,3,3,City Centre,273300
+1177,4,1,Rural Area,262700
+1130,5,2,Rural Area,293000
+2690,1,2,City Centre,369000
+940,2,1,Suburbs,199000
+2806,5,2,Rural Area,460600
+1116,4,3,Rural Area,286600
+986,1,1,Rural Area,183600
+2031,2,1,Rural Area,308100
+1064,4,2,City Centre,266400
+1362,4,3,Rural Area,311200
+2574,4,3,Suburbs,432400
+673,1,2,Rural Area,167300
+1080,1,1,Rural Area,193000
+811,4,1,City Centre,226100
+1489,4,2,Suburbs,308900
+647,1,2,City Centre,164700
+2724,5,3,Suburbs,467400
+2789,3,1,Rural Area,403900
+1251,5,3,Rural Area,320100
+1399,3,2,Rural Area,279900
+1199,5,1,Suburbs,284900
+2063,2,1,City Centre,311300
+1388,3,3,City Centre,293800
+1769,5,1,City Centre,341900
+2025,5,1,Suburbs,367500
+2405,5,1,Rural Area,405500
+1545,5,3,City Centre,349500
+1872,1,1,Suburbs,272200
+2540,4,2,Suburbs,414000
+1959,1,3,City Centre,310900
+1161,4,3,Suburbs,291100
+2461,1,1,Suburbs,331100
+2882,1,2,City Centre,388200
+2753,2,3,Rural Area,410300
+739,2,2,City Centre,193900
+2839,5,2,City Centre,463900
+2030,2,2,Rural Area,323000
+1327,3,3,Suburbs,287700
+1438,3,1,City Centre,268800
+1390,4,2,Suburbs,299000
+2402,4,3,City Centre,415200
+1249,4,1,Suburbs,269900
+2228,3,3,Suburbs,377800
+2401,1,3,Suburbs,355100
+2772,2,3,City Centre,412200
+2334,4,3,Rural Area,408400
+2882,4,2,Rural Area,448200
+2976,4,2,Rural Area,457600
+2296,2,3,Rural Area,364600
+852,5,1,Rural Area,250200
+560,3,1,Rural Area,181000
+873,1,1,Rural Area,172300
+1432,3,1,Suburbs,268200
+1087,4,1,City Centre,253700
+2673,2,1,City Centre,372300
+1934,3,3,City Centre,348400
+1185,5,3,Suburbs,313500
+1564,4,1,Rural Area,301400
+2479,2,3,Rural Area,382900
+1963,2,3,Suburbs,331300
+2349,5,2,City Centre,414900
+2415,1,3,City Centre,356500
+1842,1,2,City Centre,284200
+735,4,2,City Centre,233500
+2726,5,3,Suburbs,467600
+2677,4,2,Suburbs,427700
+2083,2,2,Suburbs,328300
+2411,2,3,City Centre,376100
+1399,1,2,Suburbs,239900
+1844,1,2,City Centre,284400
+2210,3,2,Rural Area,361000
+1886,3,3,Rural Area,343600
+857,5,2,Suburbs,265700
+1856,3,1,City Centre,310600
+1620,1,2,Rural Area,262000
+2923,5,3,City Centre,487300
+1577,2,2,Rural Area,277700
+1033,3,2,Rural Area,243300
+1090,1,1,Suburbs,194000
+2951,4,1,Rural Area,440100
+2849,1,1,Rural Area,369900
+2069,2,1,City Centre,311900
+2119,3,3,City Centre,366900
+2858,2,3,City Centre,420800
+1951,1,3,Suburbs,310100
+1958,1,1,City Centre,280800
+559,3,1,Rural Area,180900
+2717,4,1,Rural Area,416700
+1971,1,1,City Centre,282100
+2499,2,2,Rural Area,369900
+2277,4,3,Rural Area,402700
+1974,5,1,Rural Area,362400
+2997,4,3,City Centre,474700
+1741,4,2,City Centre,334100
+1733,3,1,City Centre,298300
+2755,4,1,Rural Area,420500
+1813,3,1,Rural Area,306300
+1739,1,1,Rural Area,258900
+541,5,3,City Centre,249100
+1226,3,3,City Centre,277600
+2670,2,3,Suburbs,402000
+1769,1,2,Suburbs,276900
+2397,5,2,Suburbs,419700
+684,5,1,Rural Area,233400
+840,2,2,City Centre,204000
+848,2,3,Suburbs,219800
+1267,5,3,Rural Area,321700
+1506,5,2,Suburbs,330600
+2200,3,3,City Centre,375000
+1908,1,3,Suburbs,305800
+2923,3,2,City Centre,432300
+1508,4,3,City Centre,325800
+1679,3,1,Suburbs,292900
+652,2,1,Rural Area,170200
+2102,1,3,Rural Area,325200
+1022,5,3,Rural Area,297200
+1881,5,1,Rural Area,353100
+2350,5,1,City Centre,400000
+2216,1,1,Rural Area,306600
+1120,2,1,Suburbs,217000
+1447,1,2,Suburbs,244700
+2457,1,3,Suburbs,360700
+1689,4,2,Rural Area,328900
+2790,2,3,City Centre,414000
+1795,5,2,City Centre,359500
+2817,1,2,Suburbs,381700
+2778,3,3,Rural Area,432800
+2719,2,2,Rural Area,391900
+1828,1,3,City Centre,297800
+1790,5,2,City Centre,359000
+834,4,1,Suburbs,228400
+2476,5,2,Suburbs,427600
+2747,1,3,City Centre,389700
+1870,1,1,City Centre,272000
+1495,2,3,Suburbs,284500
+1677,2,3,Suburbs,302700
+1766,5,2,Suburbs,356600
+1322,1,1,Rural Area,217200
+673,2,1,City Centre,172300
+2179,1,2,Suburbs,317900
+1396,3,2,Rural Area,279600
+977,2,2,Rural Area,217700
+2676,5,1,Suburbs,432600
+557,4,2,City Centre,215700
+1374,5,1,Suburbs,302400
+2021,3,1,Suburbs,327100
+711,1,3,City Centre,186100
+2456,5,3,City Centre,440600
+1557,3,2,Suburbs,295700
+632,5,3,City Centre,258200
+2958,2,3,Suburbs,430800
+2936,5,1,Suburbs,458600
+1449,5,2,Suburbs,324900
+2433,1,1,City Centre,328300
+2926,4,2,City Centre,452600
+2854,4,2,Rural Area,445400
+2273,3,3,City Centre,382300
+1637,1,1,Suburbs,248700
+1646,4,3,City Centre,339600
+825,3,3,Rural Area,237500
+1522,4,2,Rural Area,312200
+1641,4,3,Suburbs,339100
+573,2,1,Suburbs,162300
+2747,1,1,City Centre,359700
+561,2,1,Rural Area,161100
+2940,2,3,Rural Area,429000
+2883,1,1,Suburbs,373300
+2335,1,3,City Centre,348500
+838,5,3,Suburbs,278800
+1011,3,1,Rural Area,226100
+2873,2,1,Rural Area,392300
+2260,5,1,City Centre,391000
+1483,2,3,Rural Area,283300
+1633,4,2,City Centre,323300
+1741,2,2,City Centre,294100
+2997,1,1,Rural Area,384700
+2603,3,1,City Centre,385300
+2908,1,1,Rural Area,375800
+1319,1,1,Rural Area,216900
+2295,4,3,Rural Area,404500
+2310,1,1,City Centre,316000
+2045,4,1,City Centre,349500
+2275,5,2,Rural Area,407500
+2667,1,2,Rural Area,366700
+1722,1,1,Rural Area,257200
+2978,2,3,Rural Area,432800
+1929,5,2,City Centre,372900
+1033,1,1,Suburbs,188300
+693,5,1,Suburbs,234300
+2704,4,3,Rural Area,445400
+1835,1,2,City Centre,283500
+2467,1,3,Rural Area,361700
+559,4,2,Rural Area,215900
+2611,2,3,Rural Area,396100
+909,5,2,Rural Area,270900
+2420,2,3,Suburbs,377000
+2509,2,1,Rural Area,355900
+783,4,3,Suburbs,253300
+2260,2,1,Rural Area,331000
+919,2,3,City Centre,226900
+2447,5,2,Suburbs,424700
+2595,2,2,Rural Area,379500
+2806,4,3,City Centre,455600
+1047,2,3,Suburbs,239700
+1483,1,1,Rural Area,233300
+1496,3,3,City Centre,304600
+1709,1,1,Rural Area,255900
+2280,4,2,City Centre,388000
+2165,2,3,Suburbs,351500
+891,2,3,Rural Area,224100
+2968,3,3,City Centre,451800
+2199,3,3,City Centre,374900
+1580,4,1,City Centre,303000
+2245,3,1,City Centre,349500
+2346,3,3,Suburbs,389600
+1689,3,2,City Centre,308900
+2903,2,2,City Centre,410300
+990,3,1,Rural Area,224000
+2757,5,3,Rural Area,470700
+1904,4,1,Rural Area,335400
+2985,2,2,Suburbs,418500
+2135,1,1,Suburbs,298500
+965,5,2,Rural Area,276500
+1191,2,1,Suburbs,224100
+2355,3,2,Suburbs,375500
+884,1,3,City Centre,203400
+2623,2,2,City Centre,382300
+1325,3,3,Rural Area,287500
+2448,4,3,Suburbs,419800
+1504,5,2,Suburbs,330400
+2128,2,2,City Centre,332800
+1461,3,1,Suburbs,271100
+1714,1,2,Rural Area,271400
+2824,4,3,Suburbs,457400
+878,3,3,Suburbs,242800
+1816,5,2,City Centre,361600
+2383,5,3,Suburbs,433300
+2011,2,2,City Centre,321100
+1388,2,2,Suburbs,258800
+1313,2,3,Suburbs,266300
+2984,2,1,Rural Area,403400
+2371,4,2,City Centre,397100
+677,4,1,City Centre,212700
+2130,5,1,Rural Area,378000
+2936,3,1,City Centre,418600
+2001,4,1,City Centre,345100
+1713,4,3,City Centre,346300
+2245,2,1,Rural Area,329500
+1815,5,1,City Centre,346500
+1297,3,2,Suburbs,269700
+1117,1,2,Rural Area,211700
+2882,3,2,Rural Area,428200
+1281,4,2,Suburbs,288100
+2620,1,1,Suburbs,347000
+595,4,2,City Centre,219500
+687,5,3,City Centre,263700
+802,1,2,City Centre,180200
+2085,1,2,Rural Area,308500
+700,1,3,Rural Area,185000
+2688,2,2,City Centre,388800
+2925,5,1,Suburbs,457500
+2820,1,1,Rural Area,367000
+1631,4,3,Suburbs,338100
+2186,5,3,Suburbs,413600
+1714,2,3,Rural Area,306400
+2795,3,1,Rural Area,404500
+1619,2,3,Suburbs,296900
+1495,2,3,Suburbs,284500
+1671,3,2,Suburbs,307100
+1985,2,1,Suburbs,303500
+1012,5,1,Rural Area,266200
+634,2,1,Rural Area,168400
+2746,5,3,Suburbs,469600
+1655,5,3,City Centre,360500
+2431,2,2,City Centre,363100
+1831,2,3,Suburbs,318100
+1369,5,1,Suburbs,301900
+2293,4,2,Suburbs,389300
+2517,2,1,Suburbs,356700
+2139,3,1,Rural Area,338900
+2232,3,2,Suburbs,363200
+2838,1,2,Suburbs,383800
+515,2,2,City Centre,171500
+1698,2,2,Suburbs,289800
+1460,2,2,City Centre,266000
+2080,2,2,Suburbs,328000
+2274,4,2,City Centre,387400
+636,1,3,City Centre,178600
+1748,4,3,Rural Area,349800
+2970,2,3,City Centre,432000
+1516,4,1,Rural Area,296600
+1729,4,1,Suburbs,317900
+1424,2,3,Suburbs,277400
+938,2,2,City Centre,213800
+1662,1,1,Rural Area,251200
+1504,3,1,Rural Area,275400
+707,4,1,Suburbs,215700
+1453,1,3,Rural Area,260300
+1501,4,1,City Centre,295100
+897,4,3,Suburbs,264700
+2349,1,3,Suburbs,349900
+2950,4,1,Rural Area,440000
+2816,4,2,Rural Area,441600
+1657,2,2,Rural Area,285700
+2471,5,1,Rural Area,412100
+2541,4,1,Suburbs,399100
+2361,4,2,Rural Area,396100
+1856,2,3,City Centre,320600
+2920,4,1,Suburbs,437000
+2358,5,2,Rural Area,415800
+2650,2,1,City Centre,370000
+932,5,1,Rural Area,258200
+670,1,3,Rural Area,182000
+2138,1,1,Rural Area,298800
+664,5,3,Rural Area,261400
+841,4,2,Suburbs,244100
+2092,5,1,Rural Area,374200
+862,2,2,Suburbs,206200
+628,3,2,Suburbs,202800
+2114,5,2,City Centre,391400
+1287,2,2,City Centre,248700
+723,2,3,Rural Area,207300
+2669,3,1,City Centre,391900
+944,3,1,Rural Area,219400
+1846,2,2,City Centre,304600
+2423,3,3,Suburbs,397300
+1909,4,3,City Centre,365900
+2032,3,1,City Centre,328200
+789,5,2,Suburbs,258900
+1063,4,2,Suburbs,266300
+2829,1,1,Suburbs,367900
+2615,2,2,Rural Area,381500
+1426,4,2,City Centre,302600
+1135,3,3,City Centre,268500
+1621,1,1,City Centre,247100
+1826,5,2,Suburbs,362600
+2919,2,1,Rural Area,396900
+2540,5,1,Suburbs,419000
+1597,5,3,Suburbs,354700
+2254,1,3,City Centre,340400
+1995,5,2,Rural Area,379500
+2199,2,3,City Centre,354900
+1999,3,2,City Centre,339900
+861,1,1,Suburbs,171100
+1082,2,1,City Centre,213200
+1160,5,1,City Centre,281000
+2120,5,1,Rural Area,377000
+1917,2,3,Suburbs,326700
+2125,2,3,City Centre,347500
+1194,2,2,Rural Area,239400
+1307,2,2,City Centre,250700
+698,2,3,Rural Area,204800
+2549,2,2,Rural Area,374900
+1963,4,2,Suburbs,356300
+900,2,3,Rural Area,225000
+890,5,2,Suburbs,269000
+2386,5,3,Rural Area,433600
+2248,3,3,City Centre,379800
+2101,4,1,City Centre,355100
+1637,4,1,Rural Area,308700
+2139,5,2,Rural Area,393900
+2468,5,2,City Centre,426800
+1053,2,1,Suburbs,210300
+711,4,1,City Centre,216100
+1437,5,2,City Centre,323700
+648,2,3,Rural Area,199800
+1157,5,3,Rural Area,310700
+2872,2,2,Suburbs,407200
+2753,2,3,Suburbs,410300
+2842,1,1,Suburbs,369200
+1587,2,3,Suburbs,293700
+1036,5,1,Suburbs,268600
+2516,4,3,Suburbs,426600
+2865,3,2,City Centre,426500
+2967,4,2,City Centre,456700
+1146,4,2,Suburbs,274600
+621,2,1,City Centre,167100
+2902,3,2,Rural Area,430200
+908,5,3,City Centre,285800
+1363,4,2,City Centre,296300
+1713,3,2,Suburbs,311300
+1675,5,3,Rural Area,362500
+2691,5,3,Rural Area,464100
+2309,1,3,Rural Area,345900
+1647,2,2,Suburbs,284700
+1603,2,1,City Centre,265300
+915,4,1,Suburbs,236500
+2685,2,1,Suburbs,373500
+700,4,3,Suburbs,245000
+1885,5,3,City Centre,383500
+2175,5,1,Suburbs,382500
+2332,2,3,Rural Area,368200
+1706,2,3,Suburbs,305600
+1537,2,2,Rural Area,273700
+1024,3,2,Suburbs,242400
+1093,3,1,City Centre,234300
+1392,5,2,City Centre,319200
+2240,3,1,Rural Area,349000
+526,1,2,Rural Area,152600
+1181,4,2,City Centre,278100
+951,2,1,City Centre,200100
+1948,4,1,Suburbs,339800
+2231,4,1,Suburbs,368100
+795,5,3,City Centre,274500
+600,5,3,Suburbs,255000
+539,2,2,Suburbs,173900
+2720,2,2,Rural Area,392000
+924,5,2,Suburbs,272400
+1506,4,2,Suburbs,310600
+2311,5,1,City Centre,396100
+2317,3,2,City Centre,371700
+2817,5,3,City Centre,476700
+1671,1,1,Rural Area,252100
+843,2,2,Rural Area,204300
+2156,4,2,Rural Area,375600
+2070,4,1,Suburbs,352000
+1937,1,3,Rural Area,308700
+1871,3,3,City Centre,342100
+1563,2,2,Rural Area,276300
+2622,1,2,Rural Area,362200
+1462,3,1,Rural Area,271200
+1638,4,1,Suburbs,308800
+561,2,3,Rural Area,191100
+1497,2,3,Rural Area,284700
+2982,5,1,City Centre,463200
+2298,1,1,Suburbs,314800
+2059,2,1,Suburbs,310900
+759,1,2,Rural Area,175900
+1619,5,1,Suburbs,326900
+1344,4,1,Rural Area,279400
+1560,1,2,Rural Area,256000
+1582,5,3,Suburbs,353200
+901,2,2,City Centre,210100
+721,2,3,Rural Area,207100
+978,5,3,City Centre,292800
+1618,4,3,Suburbs,336800
+2204,2,3,Rural Area,355400
+2871,2,2,City Centre,407100
+2377,1,2,Suburbs,337700
+585,2,1,Rural Area,163500
+1626,1,2,Rural Area,262600
+2656,4,1,Suburbs,410600
+1667,4,3,Suburbs,341700
+2437,2,3,Suburbs,378700
+2100,3,3,City Centre,365000
+2865,3,2,City Centre,426500
+1271,4,1,City Centre,272100
+2056,5,2,Rural Area,385600
+1704,4,3,Suburbs,345400
+1996,3,3,Rural Area,354600
+1167,1,3,Rural Area,231700
+2146,4,3,Rural Area,389600
+2748,5,1,City Centre,439800
+2477,5,1,Suburbs,412700
+2764,3,1,Rural Area,401400
+1501,5,2,Rural Area,330100
+868,1,3,Suburbs,201800
+2323,5,1,Rural Area,397300
+1113,4,3,Suburbs,286300
+1176,1,2,Rural Area,217600
+908,5,2,Rural Area,270800
+1945,3,2,Rural Area,334500
+2975,1,1,Rural Area,382500
+1854,5,3,Suburbs,380400
+2401,2,3,Suburbs,375100
+1657,5,2,Suburbs,345700
+820,2,1,Suburbs,187000
+1433,3,2,Rural Area,283300
+2914,2,1,City Centre,396400
+1475,3,3,Rural Area,302500
+1394,1,1,Rural Area,224400
+2088,4,2,Suburbs,368800
+2918,2,3,Rural Area,426800
+2078,2,2,Rural Area,327800
+1639,3,3,Suburbs,318900
+2503,1,3,Rural Area,365300
+1243,1,3,Suburbs,239300
+2391,2,3,City Centre,374100
+1996,3,2,Rural Area,339600
+2760,5,2,City Centre,456000
+2095,3,3,City Centre,364500
+1877,5,2,Rural Area,367700
+1919,3,1,City Centre,316900
+651,1,3,City Centre,180100
+2253,5,1,City Centre,390300
+2862,3,2,City Centre,426200
+1824,4,3,Rural Area,357400
+751,2,1,Suburbs,180100
+1342,5,1,City Centre,299200
+1625,3,2,Rural Area,302500
+1539,3,1,Suburbs,278900
+1003,2,1,Rural Area,205300
+2310,5,1,Suburbs,396000
+2024,5,2,City Centre,382400
+2710,2,1,City Centre,376000
+2411,5,1,City Centre,406100
+2503,4,1,Rural Area,395300
+2369,3,3,Rural Area,391900
+1902,4,2,Suburbs,350200
+2963,4,3,City Centre,471300
+2379,4,3,Rural Area,412900
+758,1,1,Suburbs,160800
+2036,1,1,Rural Area,288600
+1817,5,1,Rural Area,346700
+661,5,2,Rural Area,246100
+992,3,2,Suburbs,239200
+1077,1,2,City Centre,207700
+1991,3,1,Rural Area,324100
+2798,5,2,Rural Area,459800
+2377,4,2,Rural Area,397700
+2843,3,2,City Centre,424300
+2075,5,3,Rural Area,402500
+2973,5,3,City Centre,492300
+659,2,2,Suburbs,185900
+2556,1,2,Suburbs,355600
+1929,4,3,City Centre,367900
+1822,5,1,Suburbs,347200
+1550,2,3,Rural Area,290000
+1716,3,2,Suburbs,311600
+1760,4,3,City Centre,351000
+2523,2,3,Suburbs,387300
+2736,1,3,Suburbs,388600
+2471,1,1,City Centre,332100
+2886,3,2,Rural Area,428600
+1816,3,2,Rural Area,321600
+1326,1,2,Rural Area,232600
+1996,2,2,Rural Area,319600
+2517,4,1,Suburbs,396700
+1488,3,2,City Centre,288800
+1774,3,2,Suburbs,317400
+641,4,3,City Centre,239100
+1478,4,2,City Centre,307800
+556,2,2,Suburbs,175600
+557,4,2,Suburbs,215700
+514,5,3,Rural Area,246400
+1375,4,1,Suburbs,282500
+1860,1,3,Rural Area,301000
+2160,3,3,Suburbs,371000
+1277,5,2,Rural Area,307700
+2989,5,3,Suburbs,493900
+774,2,3,Suburbs,212400
+1581,1,1,Rural Area,243100
+2488,4,3,City Centre,423800
+2996,3,2,Rural Area,439600
+2361,5,1,Suburbs,401100
+2083,3,2,Suburbs,348300
+1913,2,3,Suburbs,326300
+2459,2,3,City Centre,380900
+907,2,1,Rural Area,195700
+949,4,3,Rural Area,269900
+2683,1,3,City Centre,383300
+1783,3,3,Suburbs,333300
+2218,5,1,Suburbs,386800
+2146,5,3,Rural Area,409600
+2761,2,3,Rural Area,411100
+2719,1,3,Suburbs,386900
+859,5,1,Rural Area,250900
+1507,1,1,Rural Area,235700
+2151,2,2,Suburbs,335100
+1158,2,3,City Centre,250800
+2937,2,1,Suburbs,398700
+2267,5,2,Suburbs,406700
+2363,3,3,Rural Area,391300
+972,3,1,Suburbs,222200
+1426,5,1,Rural Area,307600
+2491,1,2,City Centre,349100
+2111,4,2,Suburbs,371100
+1988,5,1,Rural Area,363800
+2252,1,1,Suburbs,310200
+1170,1,1,Rural Area,202000
+2370,5,1,Suburbs,402000
+1295,5,1,Suburbs,294500
+2618,5,1,Suburbs,426800
+537,3,2,Suburbs,193700
+2062,1,3,Suburbs,321200
+1833,4,1,City Centre,328300
+2979,2,2,City Centre,417900
+2964,2,3,City Centre,431400
+2059,5,2,Suburbs,385900
+1224,4,3,City Centre,297400
+1976,2,3,City Centre,332600
+1586,1,1,City Centre,243600
+935,2,2,Rural Area,213500
+2725,1,3,Rural Area,387500
+1357,4,1,Rural Area,280700
+1397,5,1,Suburbs,304700
+2236,5,1,Rural Area,388600
+2637,4,1,Rural Area,408700
+2935,1,1,Rural Area,378500
+790,5,1,Rural Area,244000
+546,2,1,Suburbs,159600
+577,5,3,City Centre,252700
+917,5,2,City Centre,271700
+1123,2,2,City Centre,232300
+855,3,1,Rural Area,210500
+1209,4,1,Suburbs,265900
+1599,4,2,City Centre,319900
+1373,1,1,Suburbs,222300
+699,5,1,City Centre,234900
+673,1,3,Suburbs,182300
+1351,1,3,Rural Area,250100
+1106,5,1,City Centre,275600
+1854,2,2,Rural Area,305400
+2224,4,1,City Centre,367400
+2742,1,1,Suburbs,359200
+2841,5,1,Rural Area,449100
+1592,2,1,City Centre,264200
+2228,1,2,Rural Area,322800
+2654,5,1,Rural Area,430400
+1414,5,1,City Centre,306400
+598,5,2,City Centre,239800
+1841,5,1,Suburbs,349100
+2692,3,1,Rural Area,394200
+601,5,1,Rural Area,225100
+1480,4,2,Suburbs,308000
+1634,4,2,Rural Area,323400
+1251,3,3,City Centre,280100
+2863,4,3,City Centre,461300
+707,2,3,Rural Area,205700
+2333,2,3,Rural Area,368300
+2397,5,1,Suburbs,404700
+2734,2,2,Suburbs,393400
+1074,1,2,City Centre,207400
+1674,2,2,City Centre,287400
+2511,5,1,Suburbs,416100
+1478,4,2,Suburbs,307800
+1837,3,2,Suburbs,323700
+2718,3,2,Suburbs,411800
+1969,5,3,Suburbs,391900
+1773,4,1,Suburbs,322300
+1596,3,1,Suburbs,284600
+2556,3,2,Rural Area,395600
+2801,3,3,Rural Area,435100
+2792,5,3,Suburbs,474200
+1128,1,3,Suburbs,227800
+915,3,3,City Centre,246500
+2871,3,3,Suburbs,442100
+1542,4,2,Suburbs,314200
+2831,2,2,Rural Area,403100
+1273,1,1,City Centre,212300
+702,4,3,Suburbs,245200
+2886,1,3,Rural Area,403600
+2052,4,1,City Centre,350200
+2644,4,3,Suburbs,439400
+1263,4,3,Suburbs,301300
+2916,4,3,Suburbs,466600
+922,2,2,Rural Area,212200
+2867,5,2,Suburbs,466700
+2255,2,2,City Centre,345500
+1956,5,2,Rural Area,375600
+975,4,1,Rural Area,242500
+2279,5,3,Suburbs,422900
+1712,1,1,Suburbs,256200
+1872,3,2,City Centre,327200
+2666,1,3,Suburbs,381600
+649,5,3,Rural Area,259900
+2273,3,1,City Centre,352300
+1058,3,2,City Centre,245800
+2281,5,1,Suburbs,393100
+2384,2,1,City Centre,343400
+1832,2,1,City Centre,288200
+1073,2,2,Suburbs,227300
+1482,4,2,Rural Area,308200
+638,5,1,Rural Area,228800
+2980,5,3,City Centre,493000
+2956,3,1,Suburbs,420600
+1495,4,1,Rural Area,294500
+1090,2,1,City Centre,214000
+2957,2,1,Rural Area,400700
+2079,5,2,Suburbs,387900
+2929,1,2,Rural Area,392900
+2479,5,2,Suburbs,427900
+1390,4,2,Suburbs,299000
+1187,2,2,Suburbs,238700
+524,1,2,City Centre,152400
+823,4,1,Rural Area,227300
+2741,1,1,City Centre,359100
+1673,2,2,Suburbs,287300
+2850,3,1,Rural Area,410000
+2710,1,3,Rural Area,386000
+2855,5,3,Rural Area,480500
+1630,3,1,Suburbs,288000
+2838,4,3,Rural Area,458800
+1145,2,3,Rural Area,249500
+2898,5,1,Rural Area,454800
+659,5,2,Rural Area,245900
+520,3,3,City Centre,207000
+2282,4,3,Suburbs,403200
+2475,1,2,Suburbs,347500
+2220,2,3,Suburbs,357000
+2312,1,2,Suburbs,331200
+1932,2,3,Suburbs,328200
+2752,5,2,Suburbs,455200
+574,3,1,Suburbs,182400
+975,1,2,City Centre,197500
+763,5,3,Suburbs,271300
+1350,2,3,City Centre,270000
+1471,3,1,Rural Area,272100
+2472,1,1,City Centre,332200
+1436,3,3,City Centre,298600
+1607,3,3,Suburbs,315700
+820,5,2,Rural Area,262000
+2073,4,3,Suburbs,382300
+2645,3,3,Suburbs,419500
+2404,5,3,Rural Area,435400
+2222,2,2,Suburbs,342200
+1180,5,2,Rural Area,298000
+930,1,3,City Centre,208000
+1045,2,3,Suburbs,239500
+637,1,2,Suburbs,163700
+2325,3,3,Suburbs,387500
+2105,4,3,Suburbs,385500
+2078,1,2,City Centre,307800
+1863,5,1,Rural Area,351300
+1552,1,1,Rural Area,240200
+1847,3,2,Suburbs,324700
+2710,3,1,City Centre,396000
+2591,4,2,Rural Area,419100
+1675,2,1,Suburbs,272500
+608,2,3,Suburbs,195800
+2726,5,1,City Centre,437600
+2848,3,2,Rural Area,424800
+2947,2,1,Rural Area,399700
+1998,5,2,City Centre,379800
+949,3,2,Rural Area,234900
+2342,3,2,City Centre,374200
+1764,3,2,Rural Area,316400
+2420,5,1,City Centre,407000
+2545,3,3,City Centre,409500
+597,3,2,Rural Area,199700
+2418,4,1,City Centre,386800
+1314,1,3,City Centre,246400
+2980,1,2,Rural Area,398000
+2361,1,3,Rural Area,351100
+1084,4,3,Suburbs,283400
+1874,1,1,Suburbs,272400
+2299,2,3,Suburbs,364900
+2286,1,2,Rural Area,328600
+1250,3,1,City Centre,250000
+2234,2,3,Rural Area,358400
+625,4,2,Suburbs,222500
+672,5,2,City Centre,247200
+2294,3,3,Rural Area,384400
+2002,3,3,Suburbs,355200
+1797,5,1,Suburbs,344700
+1304,3,2,City Centre,270400
+1402,3,3,Suburbs,295200
+2322,3,3,City Centre,387200
+2866,5,1,Suburbs,451600
+1643,4,1,Rural Area,309300
+2226,1,2,Rural Area,322600
+1849,2,3,City Centre,319900
+2522,1,2,Rural Area,352200
+2377,1,3,Rural Area,352700
+822,1,3,Suburbs,197200
+2470,4,1,Rural Area,392000
+1026,4,1,City Centre,247600
+2858,4,2,Rural Area,445800
+1030,2,3,Rural Area,238000
+630,3,3,City Centre,218000
+1142,3,1,Rural Area,239200
+1093,2,2,Rural Area,229300
+1312,2,1,City Centre,236200
+2427,5,1,Rural Area,407700
+1520,1,3,Rural Area,267000
+1825,5,2,Rural Area,362500
+865,2,1,City Centre,191500
+705,2,2,Rural Area,190500
+1379,3,2,Suburbs,277900
+1747,1,2,Suburbs,274700
+2961,3,2,Rural Area,436100
+2461,4,3,City Centre,421100
+2053,3,3,Rural Area,360300
+1815,4,2,City Centre,341500
+2207,5,2,Suburbs,400700
+927,2,2,Suburbs,212700
+1214,1,1,City Centre,206400
+1567,1,2,Rural Area,256700
+1632,1,2,City Centre,263200
+1718,1,3,City Centre,286800
+851,2,1,Rural Area,190100
+2931,5,2,City Centre,473100
+1693,4,3,Rural Area,344300
+2185,2,2,Suburbs,338500
+1103,1,3,Suburbs,225300
+790,1,3,Rural Area,194000
+954,2,1,Rural Area,200400
+1984,1,2,Suburbs,298400
+2381,4,1,Suburbs,383100
+1636,3,2,Rural Area,303600
+2699,1,2,Rural Area,369900
+1646,2,3,Rural Area,299600
+2705,4,3,Rural Area,445500
+544,1,2,Suburbs,154400
+1468,1,3,Rural Area,261800
+1279,1,3,Rural Area,242900
+585,1,2,Suburbs,158500
+2966,3,2,City Centre,436600
+1334,3,2,City Centre,273400
+1535,4,2,Suburbs,313500
+2999,5,2,Rural Area,479900
+1456,1,3,City Centre,260600
+2609,4,1,Rural Area,405900
+1956,5,2,Suburbs,375600
+1813,5,2,Suburbs,361300
+1774,4,2,Suburbs,337400
+736,5,2,Suburbs,253600
+1419,5,1,Rural Area,306900
+959,3,1,Rural Area,220900
+1371,4,1,City Centre,282100
+1497,4,3,Rural Area,324700
+729,1,3,Rural Area,187900
+2099,3,1,Suburbs,334900
+1029,3,3,Rural Area,257900
+2211,5,3,Suburbs,416100
+2145,4,3,Suburbs,389500
+1010,2,1,Rural Area,206000
+2545,1,2,City Centre,354500
+2690,3,3,Suburbs,424000
+2828,3,2,Rural Area,422800
+1034,5,1,Rural Area,268400
+2172,1,3,Rural Area,332200
+723,5,3,Rural Area,267300
+701,3,2,City Centre,210100
+2460,4,3,Suburbs,421000
+574,5,1,City Centre,222400
+2312,5,3,City Centre,426200
+2751,3,2,Rural Area,415100
+1520,4,2,Suburbs,312000
+780,4,1,Rural Area,223000
+2690,4,2,Rural Area,429000
+1624,1,3,Suburbs,277400
+2062,1,2,City Centre,306200
+635,2,2,City Centre,183500
+891,4,1,Rural Area,234100
+2649,1,1,Rural Area,349900
+1724,2,3,Suburbs,307400
+2618,2,3,City Centre,396800
+2765,5,1,Suburbs,441500
+1944,3,3,Suburbs,349400
+2279,5,1,Rural Area,392900
+2459,4,3,Rural Area,420900
+1104,3,1,Rural Area,235400
+2915,4,2,Rural Area,451500
+1153,2,1,Suburbs,220300
+1697,1,2,Rural Area,269700
+1151,4,3,Rural Area,290100
+1430,5,3,Rural Area,338000
+2670,4,1,Suburbs,412000
+2123,5,2,City Centre,392300
+1755,5,1,Suburbs,340500
+2613,4,3,Suburbs,436300
+2160,2,2,Rural Area,336000
+2228,1,1,Suburbs,307800
+1320,3,1,Rural Area,257000
+1970,5,1,Rural Area,362000
+2000,3,2,Suburbs,340000
+1057,1,1,City Centre,190700
+1423,2,1,Suburbs,247300
+1158,5,3,City Centre,310800
+2970,2,2,City Centre,417000
+1182,4,1,Rural Area,263200
+1955,2,1,Rural Area,300500
+2745,5,1,City Centre,439500
+2702,2,3,Suburbs,405200
+1555,4,3,City Centre,330500
+1366,4,1,City Centre,281600
+1872,5,3,City Centre,382200
+1527,2,3,Suburbs,287700
+1713,5,1,City Centre,336300
+2587,1,2,City Centre,358700
+617,5,1,City Centre,226700
